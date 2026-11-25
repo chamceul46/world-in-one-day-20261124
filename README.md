@@ -1,7 +1,11 @@
 # The World in One Day — Tuesday, 24 November 2026
 
+[![make.fun bounty](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/chamceul46/world-in-one-day-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/chamceul46/world-in-one-day-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 Entry for the make.fun bounty **"Sum up 24 November's world news in one image"**
-(`news-image-20261124`).
+(`news-image-20261124`) — see the bounty on [make.fun](https://make.fun/bounty/news-image-20261124).
 
 ## What it is
 
